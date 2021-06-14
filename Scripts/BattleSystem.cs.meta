@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 43314bbba0605fe49aa71e58de3fdb45
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rougePrefab: {fileID: 1668188202801692, guid: 7e6e29f21a00d5f499e21eb93d6fabaa,
+      type: 3}
+  - magePrefab: {fileID: 1253013051146282, guid: f018c9b8a16f9c3449b1c025f1a66ce4,
+      type: 3}
+  - knightPrefab: {fileID: 1253086935255656, guid: 60e8218091f83244c9bf9c8c2569a009,
+      type: 3}
+  - barbarianPrefab: {fileID: 1804324718265296, guid: f933c455b886ad644b60dc415ab31bb3,
+      type: 3}
+  - EnemyPrefab: {fileID: 8071831242326539747, guid: 649e0ca983f7ef74f860b93e5e0a91d3,
+      type: 3}
+  - rougeBattlePosistion: {instanceID: 0}
+  - mageBattlePosistion: {instanceID: 0}
+  - knightBattlePosistion: {instanceID: 0}
+  - barbarianBattlePosistion: {instanceID: 0}
+  - enemyBattlePosistion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
